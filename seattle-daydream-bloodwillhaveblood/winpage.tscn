@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://bhmvmktxjy4a6"]
+
+[ext_resource type="Texture2D" uid="uid://bh4441bdrvuii" path="res://assets/istockphoto-1434200195-612x612.jpg" id="1_blent"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Istockphoto1434200195612x612" type="Sprite2D" parent="."]
+position = Vector2(587.99994, 369)
+scale = Vector2(2.0882354, 2.229651)
+texture = ExtResource("1_blent")
